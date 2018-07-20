@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrimitereDate</string>
+    <string name="nume">Scrie aici numele</string>
+    <string name="prenume">Scrie aici prenumele</string>
+</resources>
